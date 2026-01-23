@@ -39,7 +39,7 @@
     "id": "agent-evaluation",
     "path": "skills/agent-evaluation",
     "name": "agent-evaluation",
-    "description": "\"Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring\u2014where even top agents achieve less than 50% on real-world benchmarks Use when: agent testing, agent evaluation, benchmark agents, agent reliability, test agent.\""
+    "description": "\"Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring—where even top agents achieve less than 50% on real-world benchmarks Use when: agent testing, agent evaluation, benchmark agents, agent reliability, test agent.\""
   },
   {
     "id": "agent-manager-skill",
@@ -177,7 +177,7 @@
     "id": "backend-dev-guidelines",
     "path": "skills/backend-dev-guidelines",
     "name": "backend-dev-guidelines",
-    "description": "Comprehensive backend development guide for Node.js/Express/TypeScript microservices. Use when creating routes, controllers, services, repositories, middleware, or working with Express APIs, Prisma database access, Sentry error tracking, Zod validation, unifiedConfig, dependency injection, or async patterns. Covers layered architecture (routes \u2192 controllers \u2192 services \u2192 repositories), BaseController pattern, error handling, performance monitoring, testing strategies, and migration from legacy patterns."
+    "description": "Comprehensive backend development guide for Node.js/Express/TypeScript microservices. Use when creating routes, controllers, services, repositories, middleware, or working with Express APIs, Prisma database access, Sentry error tracking, Zod validation, unifiedConfig, dependency injection, or async patterns. Covers layered architecture (routes → controllers → services → repositories), BaseController pattern, error handling, performance monitoring, testing strategies, and migration from legacy patterns."
   },
   {
     "id": "cc-skill-backend-patterns",
@@ -369,7 +369,7 @@
     "id": "copywriting",
     "path": "skills/copywriting",
     "name": "copywriting",
-    "description": "When the user wants to write, rewrite, or improve marketing copy for any page \u2014 including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
+    "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
   },
   {
     "id": "core-components",
@@ -507,13 +507,13 @@
     "id": "form-cro",
     "path": "skills/form-cro",
     "name": "form-cro",
-    "description": "When the user wants to optimize any form that is NOT signup/registration \u2014 including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" or \"contact form.\" For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro."
+    "description": "When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" or \"contact form.\" For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro."
   },
   {
     "id": "free-tool-strategy",
     "path": "skills/free-tool-strategy",
     "name": "free-tool-strategy",
-    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" or \"free resource.\" This skill bridges engineering and marketing \u2014 useful for founders and technical marketers."
+    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" or \"free resource.\" This skill bridges engineering and marketing — useful for founders and technical marketers."
   },
   {
     "id": "frontend-design",
@@ -807,7 +807,7 @@
     "id": "page-cro",
     "path": "skills/page-cro",
     "name": "page-cro",
-    "description": "When the user wants to optimize, improve, or increase conversions on any marketing page \u2014 including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" or \"why isn't this page working.\" For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro."
+    "description": "When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" or \"why isn't this page working.\" For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro."
   },
   {
     "id": "paid-ads",
@@ -825,7 +825,7 @@
     "id": "paywall-upgrade-cro",
     "path": "skills/paywall-upgrade-cro",
     "name": "paywall-upgrade-cro",
-    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" or \"in-app pricing.\" Distinct from public pricing pages (see page-cro) \u2014 this skill focuses on in-product upgrade moments where the user has already experienced value."
+    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" or \"in-app pricing.\" Distinct from public pricing pages (see page-cro) — this skill focuses on in-product upgrade moments where the user has already experienced value."
   },
   {
     "id": "pc-games",
@@ -1335,7 +1335,7 @@
     "id": "voice-agents",
     "path": "skills/voice-agents",
     "name": "voice-agents",
-    "description": "\"Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis, it's achieving natural conversation flow with sub-800ms latency while handling interruptions, background noise, and emotional nuance.  This skill covers two architectures: speech-to-speech (OpenAI Realtime API, lowest latency, most natural) and pipeline (STT\u2192LLM\u2192TTS, more control, easier to debug). Key insight: latency is the constraint. Hu\""
+    "description": "\"Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis, it's achieving natural conversation flow with sub-800ms latency while handling interruptions, background noise, and emotional nuance.  This skill covers two architectures: speech-to-speech (OpenAI Realtime API, lowest latency, most natural) and pipeline (STT→LLM→TTS, more control, easier to debug). Key insight: latency is the constraint. Hu\""
   },
   {
     "id": "voice-ai-development",
@@ -1432,5 +1432,23 @@
     "path": "skills/zapier-make-patterns",
     "name": "zapier-make-patterns",
     "description": "\"No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.  This skill covers when to use which platform, how to build reliable automations, and when to graduate to code-based solutions. Key insight: Zapier optimizes for simplicity and integrations (7000+ apps), Make optimizes for power \""
+  },
+  {
+    "id": "avalonia-layout-zafiro",
+    "path": "skills/avalonia-layout-zafiro",
+    "name": "avalonia-layout-zafiro",
+    "description": "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy."
+  },
+  {
+    "id": "avalonia-viewmodels-zafiro",
+    "path": "skills/avalonia-viewmodels-zafiro",
+    "name": "avalonia-viewmodels-zafiro",
+    "description": "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI."
+  },
+  {
+    "id": "avalonia-zafiro-development",
+    "path": "skills/avalonia-zafiro-development",
+    "name": "avalonia-zafiro-development",
+    "description": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
   }
 ]
