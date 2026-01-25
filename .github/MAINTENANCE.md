@@ -25,20 +25,23 @@ Before ANY commit that adds/modifies skills, run the chain:
     ```bash
     python3 scripts/generate_index.py
     ```
-    _Updates `skills_index.json` which drives the registry._
 
-### B. Contributors Sync
+### B. Post-Merge Routine (Must Do)
 
-We honor every contributor. Keep the list in `README.md` in sync with git history.
+After multiple PR merges or significant changes:
 
-1.  **Check actual contributors**:
-    ```bash
-    git shortlog -sn --all
-    ```
-2.  **Update `README.md`**:
-    - Look for `## Repo Contributors` section.
-    - Add missing names alphabetically.
-    - Format: `- [Name](https://github.com/Username)`
+1.  **Sync Contributors List**:
+    - Run: `git shortlog -sn --all`
+    - Update `## Repo Contributors` in README.md.
+
+2.  **Verify Table of Contents**:
+    - Ensure all new headers have clean anchors.
+    - **NO EMOJIS** in H2 headers.
+
+3.  **Draft a Release**:
+    - Go to [Releases Page](https://github.com/sickn33/antigravity-awesome-skills/releases).
+    - Draft a new release for the merged changes.
+    - Tag version (e.g., `v3.1.0`).
 
 ---
 
