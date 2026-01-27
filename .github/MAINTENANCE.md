@@ -57,10 +57,9 @@ Before ANY commit that adds/modifies skills, run the chain:
     _Must return 0 errors for new skills._
 
 2.  **Regenerate Index**:
+
+    ```bash
     python3 scripts/generate_index.py
-
-    ```
-
     ```
 
 3.  **Update Readme**:
