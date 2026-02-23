@@ -2,9 +2,9 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 919
+Total skills: 925
 
-## architecture (62)
+## architecture (63)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@ Total skills: 919
 | `hig-patterns` | > | hig | hig |
 | `i18n-localization` | Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support. | i18n, localization | i18n, localization, internationalization, detecting, hardcoded, strings, managing, translations, locale, files, rtl |
 | `inngest` | Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers. Use when: inngest, ser... | inngest | inngest, serverless, first, background, jobs, event, driven, durable, execution, without, managing, queues |
+| `kotlin-coroutines-expert` | Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing. | kotlin, coroutines | kotlin, coroutines, flow, covering, structured, concurrency, error, handling, testing |
 | `monorepo-architect` | Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project devel... | monorepo | monorepo, architect, architecture, dependency, scale, masters, nx, turborepo, bazel, lerna, efficient, multi |
 | `multi-agent-patterns` | Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures | multi, agent | multi, agent, orchestrator, peer, hierarchical, architectures |
 | `nerdzao-elite` | Senior Elite Software Engineer (15+) and Senior Product Designer. Full workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation. | nerdzao, elite | nerdzao, elite, senior, software, engineer, 15, product, designer, full, planning, architecture, tdd |
@@ -115,7 +116,7 @@ Total skills: 919
 | `startup-metrics-framework` | This skill should be used when the user asks about \"key startup | startup, metrics, framework | startup, metrics, framework, skill, should, used, user, asks, about, key |
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 
-## data-ai (150)
+## data-ai (151)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -191,6 +192,7 @@ Total skills: 919
 | `data-quality-frameworks` | Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation r... | data, quality, frameworks | data, quality, frameworks, validation, great, expectations, dbt, tests, contracts, building, pipelines, implementing |
 | `data-scientist` | Expert data scientist for advanced analytics, machine learning, and | data, scientist | data, scientist, analytics, machine, learning |
 | `data-storytelling` | Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating dat... | data, storytelling | data, storytelling, transform, compelling, narratives, visualization, context, persuasive, structure, presenting, analytics, stakeholders |
+| `data-structure-protocol` | Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading th... | data, structure, protocol | data, structure, protocol, give, agents, persistent, structural, memory, codebase, navigate, dependencies, track |
 | `database` | Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering. | database | database, development, operations, covering, sql, nosql, migrations, optimization, data, engineering |
 | `database-architect` | Expert database architect specializing in data layer design from | database | database, architect, specializing, data, layer |
 | `database-design` | Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases. | database | database, principles, decision, making, schema, indexing, orm, selection, serverless, databases |
@@ -270,12 +272,13 @@ Total skills: 919
 | `xlsx-official` | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work ... | xlsx, official | xlsx, official, spreadsheet, creation, editing, analysis, formulas, formatting, data, visualization, claude, work |
 | `youtube-automation` | Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools firs... | youtube | youtube, automation, automate, tasks, via, rube, mcp, composio, upload, videos, playlists, search |
 
-## development (146)
+## development (148)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
 | `3d-web-experience` | Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portf... | 3d, web, experience | 3d, web, experience, building, experiences, three, js, react, fiber, spline, webgl, interactive |
 | `algolia-search` | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instan... | algolia, search | algolia, search, indexing, react, instantsearch, relevance, tuning, adding, api, functionality |
+| `android-jetpack-compose-expert` | Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3. | android, jetpack, compose | android, jetpack, compose, guidance, building, uis, covering, state, navigation, performance, material |
 | `api-design-principles` | Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, revie... | api, principles | api, principles, rest, graphql, intuitive, scalable, maintainable, apis, delight, developers, designing, new |
 | `api-documentation` | API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation. | api, documentation | api, documentation, generating, openapi, specs, creating, developer, guides, maintaining |
 | `api-documentation-generator` | Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices | api, documentation, generator | api, documentation, generator, generate, developer, friendly, code, including, endpoints, parameters, examples |
@@ -327,6 +330,7 @@ Total skills: 919
 | `azure-web-pubsub-ts` | Build real-time messaging applications using Azure Web PubSub SDKs for JavaScript (@azure/web-pubsub, @azure/web-pubsub-client). Use when implementing WebSoc... | azure, web, pubsub, ts | azure, web, pubsub, ts, real, time, messaging, applications, sdks, javascript, client, implementing |
 | `backend-architect` | Expert backend architect specializing in scalable API design, | backend | backend, architect, specializing, scalable, api |
 | `backend-dev-guidelines` | Opinionated backend development standards for Node.js + Express + TypeScript microservices. Covers layered architecture, BaseController pattern, dependency i... | backend, dev, guidelines | backend, dev, guidelines, opinionated, development, standards, node, js, express, typescript, microservices, covers |
+| `bevy-ecs-expert` | Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling. | bevy, ecs | bevy, ecs, entity, component, rust, covering, queries, resources, parallel, scheduling |
 | `bullmq-specialist` | BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications. Use when: bullmq, bull que... | bullmq | bullmq, redis, backed, job, queues, background, processing, reliable, async, execution, node, js |
 | `bun-development` | Modern JavaScript/TypeScript development with Bun runtime. Covers package management, bundling, testing, and migration from Node.js. Use when working with Bu... | bun | bun, development, javascript, typescript, runtime, covers, package, bundling, testing, migration, node, js |
 | `cc-skill-coding-standards` | Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development. | cc, skill, coding, standards | cc, skill, coding, standards, universal, typescript, javascript, react, node, js, development |
@@ -421,7 +425,7 @@ Total skills: 919
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 | `zustand-store-ts` | Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creati... | zustand, store, ts | zustand, store, ts, stores, typescript, subscribewithselector, middleware, proper, state, action, separation, building |
 
-## general (214)
+## general (216)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -537,6 +541,7 @@ Total skills: 919
 | `git-pr-workflows-pr-enhance` | You are a PR optimization expert specializing in creating high-quality pull requests that facilitate efficient code reviews. Generate comprehensive PR descri... | git, pr, enhance | git, pr, enhance, optimization, specializing, creating, high, quality, pull, requests, facilitate, efficient |
 | `git-pushing` | Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to... | git, pushing | git, pushing, stage, commit, push, changes, conventional, messages, user, wants, mentions, remote |
 | `github-issue-creator` | Convert raw notes, error logs, voice dictation, or screenshots into crisp GitHub-flavored markdown issue reports. Use when the user pastes bug info, error me... | github, issue, creator | github, issue, creator, convert, raw, notes, error, logs, voice, dictation, screenshots, crisp |
+| `godot-4-migration` | Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports. | godot, 4, migration | godot, 4, migration, specialized, migrating, gdscript, covering, syntax, changes, tweens, exports |
 | `graphql-architect` | Master modern GraphQL with federation, performance optimization, | graphql | graphql, architect, federation, performance, optimization |
 | `hig-components-content` | > | hig, components, content | hig, components, content |
 | `hig-components-controls` | >- | hig, components, controls | hig, components, controls |
@@ -606,6 +611,7 @@ Total skills: 919
 | `scala-pro` | Master enterprise-grade Scala development with functional | scala | scala, pro, enterprise, grade, development, functional |
 | `schema-markup` | > | schema, markup | schema, markup |
 | `search-specialist` | Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles comp... | search | search, web, researcher, techniques, synthesis, masters, operators, result, filtering, multi, source, verification |
+| `shader-programming-glsl` | Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects. | shader, programming, glsl | shader, programming, glsl, writing, efficient, shaders, vertex, fragment, web, game, engines, covering |
 | `sharp-edges` | Identify error-prone APIs and dangerous configurations | sharp, edges | sharp, edges, identify, error, prone, apis, dangerous, configurations |
 | `shellcheck-configuration` | Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuri... | shellcheck, configuration | shellcheck, configuration, static, analysis, usage, shell, script, quality, setting, up, linting, infrastructure |
 | `shodan-reconnaissance` | This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services usin... | shodan, reconnaissance | shodan, reconnaissance, skill, should, used, user, asks, search, exposed, devices, internet, perform |
@@ -765,7 +771,7 @@ Total skills: 919
 | `code-reviewer` | Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Mas... | code | code, reviewer, elite, review, specializing, ai, powered, analysis, security, vulnerabilities, performance, optimization |
 | `codebase-cleanup-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | codebase, cleanup, deps, audit | codebase, cleanup, deps, audit, dependency, security, specializing, vulnerability, scanning, license, compliance, supply |
 | `database-migration` | Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databas... | database, migration | database, migration, execute, migrations, orms, platforms, zero, downtime, data, transformation, rollback, procedures |
-| `database-migrations-sql-migrations` | SQL database migrations with zero-downtime strategies for | database, sql, migrations, postgresql, mysql, flyway, liquibase, alembic, zero-downtime | database, sql, migrations, postgresql, mysql, flyway, liquibase, alembic, zero-downtime, zero, downtime |
+| `database-migrations-sql-migrations` | SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans. | database, migrations, sql | database, migrations, sql, zero, downtime, postgresql, mysql, server, data, integrity, rollback, plans |
 | `dependency-management-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | dependency, deps, audit | dependency, deps, audit, security, specializing, vulnerability, scanning, license, compliance, supply, chain, analyze |
 | `deployment-pipeline-design` | Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up... | deployment, pipeline | deployment, pipeline, multi, stage, ci, cd, pipelines, approval, gates, security, checks, orchestration |
 | `design-orchestration` | Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order. Prevents premature imp... |  | orchestration, orchestrates, routing, work, through, brainstorming, multi, agent, review, execution, readiness, correct |

@@ -261,6 +261,15 @@
     "source": "unknown"
   },
   {
+    "id": "android-jetpack-compose-expert",
+    "path": "skills/android-jetpack-compose-expert",
+    "category": "uncategorized",
+    "name": "android-jetpack-compose-expert",
+    "description": "Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3.",
+    "risk": "safe",
+    "source": "community"
+  },
+  {
     "id": "angular",
     "path": "skills/angular",
     "category": "uncategorized",
@@ -1836,6 +1845,15 @@
     "source": "community"
   },
   {
+    "id": "bevy-ecs-expert",
+    "path": "skills/bevy-ecs-expert",
+    "category": "uncategorized",
+    "name": "bevy-ecs-expert",
+    "description": "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.",
+    "risk": "safe",
+    "source": "community"
+  },
+  {
     "id": "billing-automation",
     "path": "skills/billing-automation",
     "category": "uncategorized",
@@ -2898,6 +2916,15 @@
     "source": "community"
   },
   {
+    "id": "data-structure-protocol",
+    "path": "skills/data-structure-protocol",
+    "category": "uncategorized",
+    "name": "data-structure-protocol",
+    "description": "Give agents persistent structural memory of a codebase \u2014 navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo.",
+    "risk": "safe",
+    "source": "https://github.com/k-kolomeitsev/data-structure-protocol"
+  },
+  {
     "id": "database",
     "path": "skills/database",
     "category": "uncategorized",
@@ -2921,15 +2948,6 @@
     "category": "uncategorized",
     "name": "Database Architect",
     "description": "You are a database architect specializing in designing scalable, performant, and maintainable data layers from the ground up.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "database-migrations-sql-migrations",
-    "path": "skills/database-migrations-sql-migrations",
-    "category": "uncategorized",
-    "name": "Database Migrations Sql Migrations",
-    "description": "You are a SQL database migration expert specializing in zero-downtime deployments, data integrity, and production-ready migration strategies for PostgreSQL, MySQL, and SQL Server. Create comprehensive migration scripts with rollback procedures, valid",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -2975,6 +2993,15 @@
     "category": "uncategorized",
     "name": "database-migrations-migration-observability",
     "description": "Migration monitoring, CDC, and observability infrastructure",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "database-migrations-sql-migrations",
+    "path": "skills/database-migrations-sql-migrations",
+    "category": "uncategorized",
+    "name": "database-migrations-sql-migrations",
+    "description": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.",
     "risk": "unknown",
     "source": "community"
   },
@@ -4158,6 +4185,15 @@
     "source": "https://github.com/go-rod/rod"
   },
   {
+    "id": "godot-4-migration",
+    "path": "skills/godot-4-migration",
+    "category": "uncategorized",
+    "name": "godot-4-migration",
+    "description": "Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.",
+    "risk": "safe",
+    "source": "community"
+  },
+  {
     "id": "godot-gdscript-patterns",
     "path": "skills/godot-gdscript-patterns",
     "category": "uncategorized",
@@ -4740,6 +4776,15 @@
     "name": "klaviyo-automation",
     "description": "Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas.",
     "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "kotlin-coroutines-expert",
+    "path": "skills/kotlin-coroutines-expert",
+    "category": "uncategorized",
+    "name": "kotlin-coroutines-expert",
+    "description": "Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.",
+    "risk": "safe",
     "source": "community"
   },
   {
@@ -6846,6 +6891,15 @@
     "name": "service-mesh-observability",
     "description": "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SL...",
     "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "shader-programming-glsl",
+    "path": "skills/shader-programming-glsl",
+    "category": "uncategorized",
+    "name": "shader-programming-glsl",
+    "description": "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.",
+    "risk": "safe",
     "source": "community"
   },
   {
