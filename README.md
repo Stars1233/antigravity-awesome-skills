@@ -294,7 +294,15 @@ Counts change as new skills are added. For the current full registry, see [CATAL
 
 ## Browse 864+ Skills
 
-We have moved the full skill registry to a dedicated catalog to keep this README clean.
+We have moved the full skill registry to a dedicated catalog to keep this README clean, and we've also introduced an interactive **Web App**!
+
+### 🌐 Interactive Skills Web App
+
+You can now easily search, filter, and discover the perfect skills for your agent using our local Web App.
+
+To launch the app:
+1. Double-click the `START_APP.bat` file in the root directory (Windows) or run it from your terminal.
+2. The app will automatically configure everything and open in your default browser.
 
 👉 **[View the Complete Skill Catalog (CATALOG.md)](CATALOG.md)**
 
