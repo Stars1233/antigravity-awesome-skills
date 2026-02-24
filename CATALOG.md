@@ -2,9 +2,9 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 927
+Total skills: 930
 
-## architecture (63)
+## architecture (64)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ Total skills: 927
 | `c4-container` | Expert C4 Container-level documentation specialist. Synthesizes | c4, container | c4, container, level, documentation, synthesizes |
 | `c4-context` | Expert C4 Context-level documentation specialist. Creates | c4 | c4, context, level, documentation, creates |
 | `calendly-automation` | Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search... | calendly | calendly, automation, automate, scheduling, event, invitee, tracking, availability, checks, organization, administration, via |
+| `cloudformation-best-practices` | CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates. | cloudformation, best, practices | cloudformation, best, practices, optimization, nested, stacks, drift, detection, writing, reviewing, cf |
 | `code-refactoring-refactor-clean` | You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and r... | code, refactoring, refactor, clean | code, refactoring, refactor, clean, specializing, principles, solid, software, engineering, analyze, provided, improve |
 | `codebase-cleanup-refactor-clean` | You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and r... | codebase, cleanup, refactor, clean | codebase, cleanup, refactor, clean, code, refactoring, specializing, principles, solid, software, engineering, analyze |
 | `context-degradation` | Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash | degradation | degradation, context, recognize, failure, lost, middle, poisoning, distraction, clash |
@@ -648,7 +649,7 @@ Total skills: 927
 | `x-article-publisher-skill` | Publish articles to X/Twitter | x, article, publisher, skill | x, article, publisher, skill, publish, articles, twitter |
 | `youtube-summarizer` | Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks | video, summarization, transcription, youtube, content-analysis | video, summarization, transcription, youtube, content-analysis, summarizer, extract, transcripts, videos, generate, detailed, summaries |
 
-## infrastructure (90)
+## infrastructure (92)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -670,6 +671,7 @@ Total skills: 927
 | `bash-pro` | Master of defensive Bash scripting for production automation, CI/CD | bash | bash, pro, defensive, scripting, automation, ci, cd |
 | `bats-testing-patterns` | Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring t... | bats | bats, testing, bash, automated, shell, script, writing, tests, scripts, ci, cd, pipelines |
 | `box-automation` | Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (... | box | box, automation, automate, cloud, storage, operations, including, file, upload, download, search, folder |
+| `cdk-patterns` | Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 cons... | cdk | cdk, common, aws, constructs, building, cloud, infrastructure, typescript, python, java, designing, reusable |
 | `cicd-automation-workflow-automate` | You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Desig... | cicd, automate | cicd, automate, automation, specializing, creating, efficient, ci, cd, pipelines, github, actions, automated |
 | `claude-d3js-skill` | Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisati... | claude, d3js, skill | claude, d3js, skill, creating, interactive, data, visualisations, d3, js, should, used, custom |
 | `cloud-architect` | Expert cloud architect specializing in AWS/Azure/GCP multi-cloud | cloud | cloud, architect, specializing, aws, azure, gcp, multi |
@@ -734,6 +736,7 @@ Total skills: 927
 | `service-mesh-observability` | Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debu... | service, mesh, observability | service, mesh, observability, meshes, including, distributed, tracing, metrics, visualization, setting, up, monitoring |
 | `slo-implementation` | Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error budgets and alerting. Use when establishing reliability t... | slo | slo, define, level, indicators, slis, objectives, slos, error, budgets, alerting, establishing, reliability |
 | `sql-pro` | Master modern SQL with cloud-native databases, OLTP/OLAP | sql | sql, pro, cloud, native, databases, oltp, olap |
+| `terraform-aws-modules` | Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure. | terraform, aws, modules | terraform, aws, modules, module, creation, reusable, state, hcl, building, reviewing, infrastructure |
 | `terraform-infrastructure` | Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale. | terraform, infrastructure | terraform, infrastructure, code, provisioning, cloud, resources, creating, reusable, modules, managing, scale |
 | `terraform-module-library` | Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure mod... | terraform, module, library | terraform, module, library, reusable, modules, aws, azure, gcp, infrastructure, following, code, creating |
 | `terraform-skill` | Terraform infrastructure as code best practices | terraform, skill | terraform, skill, infrastructure, code |

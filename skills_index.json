@@ -2205,6 +2205,15 @@
     "source": "community"
   },
   {
+    "id": "cdk-patterns",
+    "path": "skills/cdk-patterns",
+    "category": "uncategorized",
+    "name": "cdk-patterns",
+    "description": "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "changelog-automation",
     "path": "skills/changelog-automation",
     "category": "uncategorized",
@@ -2354,6 +2363,15 @@
     "category": "uncategorized",
     "name": "cloud-penetration-testing",
     "description": "This skill should be used when the user asks to \"perform cloud penetration testing\", \"assess Azure or AWS or GCP security\", \"enumerate cloud resources\", \"exploit cloud misconfiguratio...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "cloudformation-best-practices",
+    "path": "skills/cloudformation-best-practices",
+    "category": "uncategorized",
+    "name": "cloudformation-best-practices",
+    "description": "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.",
     "risk": "unknown",
     "source": "community"
   },
@@ -7486,6 +7504,15 @@
     "description": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "terraform-aws-modules",
+    "path": "skills/terraform-aws-modules",
+    "category": "uncategorized",
+    "name": "terraform-aws-modules",
+    "description": "Terraform module creation for AWS \u2014 reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure.",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "terraform-infrastructure",
