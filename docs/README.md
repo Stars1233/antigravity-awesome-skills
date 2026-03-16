@@ -24,6 +24,7 @@
 ## Maintainers
 
 - [`maintainers/release-process.md`](maintainers/release-process.md)
+- [`maintainers/merging-prs.md`](maintainers/merging-prs.md)
 - [`maintainers/rollback-procedure.md`](maintainers/rollback-procedure.md)
 - [`maintainers/audit.md`](maintainers/audit.md)
 - [`maintainers/ci-drift-fix.md`](maintainers/ci-drift-fix.md)

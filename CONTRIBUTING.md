@@ -33,6 +33,7 @@ git push origin my-branch
 ```
 
 Open the PR with the default template and enable **Allow edits from maintainers** so conflicts can be resolved without extra back-and-forth.
+If your PR adds or edits `SKILL.md`, GitHub will also run the automated `skill-review` workflow on the pull request.
 
 If you only want to improve docs, editing directly in GitHub is still perfectly fine.
 
@@ -230,6 +231,8 @@ For a **skill-only PR**:
 npm install
 npm run validate
 ```
+
+GitHub will also run the automated `skill-review` check for PRs that touch `SKILL.md`.
 
 For **docs / workflows / infra changes**:
 

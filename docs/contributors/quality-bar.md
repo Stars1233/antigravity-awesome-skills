@@ -46,6 +46,8 @@ A list of known edge cases or things the skill _cannot_ do.
 
 If a skill includes command examples, remote fetch steps, secrets, or mutation guidance, the PR must document the risk and pass `npm run security:docs` in addition to normal validation.
 
+For pull requests that add or modify `SKILL.md`, GitHub also runs the automated `skill-review` workflow. Treat that review as part of the normal PR quality gate and address any actionable findings before merge.
+
 `npm run security:docs` enforces a repo-wide scan for:
 
 - command pipelines like `curl ... | bash`, `wget ... | sh`, `irm ... | iex`,
@@ -81,5 +83,6 @@ Notes:
 
 - `npm run validate` is the operational contributor gate.
 - `npm run security:docs` is required for command-heavy or risky skill content.
+- PRs that touch `SKILL.md` also get an automated `skill-review` GitHub Actions check.
 - `npm run validate:strict` is a useful hardening pass, but the repository still contains legacy skills that do not yet satisfy strict validation.
 - Examples and limitations remain part of the quality bar even when they are not fully auto-enforced by the current validator.

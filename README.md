@@ -176,6 +176,7 @@ These skills are continuously reviewed and hardened, but the collection is not "
 - Runtime hardening now protects the `/api/refresh-skills` mutation flow (method/host checks and optional token gate) before any repo mutation.
 - Markdown rendering in the web app avoids raw HTML passthrough (`rehype-raw`) and follows safer defaults for skill content display.
 - A repo-wide `SKILL.md` security scan checks for high-risk command patterns (for example `curl|bash`, `wget|sh`, `irm|iex`, command-line token examples) with explicit allowlisting for deliberate exceptions.
+- Pull requests that touch `SKILL.md` files now also run an automated `skill-review` GitHub Actions check, so contributors and maintainers get a second pass focused on skill structure and review quality.
 - Maintainer-facing tooling has additional path/symlink checks and parser robustness guards for safer sync, index, and install operations.
 - Security test coverage for endpoint authorization, rendering safety, and doc-risk patterns is part of the normal CI/release validation flow.
 
@@ -376,6 +377,7 @@ That will copy the generated skill index into `apps/web-app/public/skills.json`,
 - Follow the contributor guide in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 - Use the template in [`docs/contributors/skill-template.md`](docs/contributors/skill-template.md).
 - Validate with `npm run validate` before opening a PR.
+- If your PR changes `SKILL.md`, expect the automated `skill-review` check on GitHub in addition to the usual validation and security scans.
 
 ## Community
 

@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Documentation
+
+- Documented the new `skill-review` GitHub Actions workflow across contributor, maintainer, and README guidance so PR expectations stay aligned with the active CI surface for `SKILL.md` changes.
+
 ## [8.0.0] - 2026-03-16 - "Community Merge Sweep"
 
 > **Merged eight maintainer-refreshed community PRs, shipped three new skills plus workflow automation improvements, and synced the repository for the next release train**
