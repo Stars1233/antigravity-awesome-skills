@@ -571,6 +571,7 @@ We officially thank the following contributors for their help in making this rep
 - [@Imasaikiran](https://github.com/Imasaikiran)
 - [@justmiroslav](https://github.com/justmiroslav)
 - [@1bcMax](https://github.com/1bcMax)
+- [@xiaolai](https://github.com/xiaolai)
 
 ## Star History
 
