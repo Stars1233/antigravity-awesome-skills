@@ -20438,6 +20438,25 @@
       "runtime_files": []
     },
     {
+      "id": "recursive-context-pruning-token-budgeting",
+      "path": "skills/recursive-context-pruning-token-budgeting",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "red-team-tactics",
       "path": "skills/red-team-tactics",
       "targets": {
@@ -27591,10 +27610,10 @@
     }
   ],
   "summary": {
-    "total_skills": 1443,
+    "total_skills": 1444,
     "supported": {
-      "codex": 1412,
-      "claude": 1427
+      "codex": 1413,
+      "claude": 1428
     },
     "blocked": {
       "codex": 31,

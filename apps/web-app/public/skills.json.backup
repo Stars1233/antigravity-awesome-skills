@@ -23567,6 +23567,28 @@
     }
   },
   {
+    "id": "recursive-context-pruning-token-budgeting",
+    "path": "skills/recursive-context-pruning-token-budgeting",
+    "category": "prompt-engineering",
+    "name": "recursive-context-pruning-token-budgeting",
+    "description": "Optimizes AI agent performance by pruning redundant context, managing token usage, and enforcing ultra-concise, direct-to-value responses.",
+    "risk": "safe",
+    "source": "self",
+    "date_added": "2026-05-03",
+    "plugin": {
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": []
+    }
+  },
+  {
     "id": "red-team-tactics",
     "path": "skills/red-team-tactics",
     "category": "security",

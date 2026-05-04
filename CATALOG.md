@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 1443
+Total skills: 1444
 
 ## architecture (95)
 
@@ -190,7 +190,7 @@ Total skills: 1443
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 | `wordpress-centric-high-seo-optimized-blogwriting-skill` | Create long-form, high-quality, SEO-optimized blog posts ready for WordPress with truth boxes and FAQ schema. | writing, blog, seo, content, wordpress | writing, blog, seo, content, wordpress, centric, high, optimized, blogwriting, skill, long, form |
 
-## data-ai (277)
+## data-ai (278)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -412,6 +412,7 @@ Total skills: 1443
 | `react-best-practices` | Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages... | react, best, practices | react, best, practices, performance, optimization, next, js, applications, maintained, vercel, writing, new |
 | `react-ui-patterns` | Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states. | react, ui | react, ui, loading, states, error, handling, data, fetching, building, components, async, managing |
 | `recallmax` | FREE — God-tier long-context memory for AI agents. Injects 500K-1M clean tokens, auto-summarizes with tone/intent preservation, compresses 14-turn history in... | memory, context, rag, summarization, compression, long-context, agent-infrastructure | memory, context, rag, summarization, compression, long-context, agent-infrastructure, recallmax, free, god, tier, long |
+| `recursive-context-pruning-token-budgeting` | Optimizes AI agent performance by pruning redundant context, managing token usage, and enforcing ultra-concise, direct-to-value responses. | efficiency, token-optimization, brevity, context-management | efficiency, token-optimization, brevity, context-management, recursive, context, pruning, token, budgeting, optimizes, ai, agent |
 | `referral-program` | You are an expert in viral growth and referral marketing with access to referral program data and third-party tools. Your goal is to help design and optimize... | referral, program | referral, program, viral, growth, marketing, access, data, third, party, goal, optimize, programs |
 | `robius-state-management` | CRITICAL: Use for Robius state management patterns. Triggers on: AppState, persistence, theme switch, 状态管理, Scope::with_data, save state, load state, serde, ... | robius, state | robius, state, critical, triggers, appstate, persistence, theme, switch, scope, data, save, load |
 | `sankhya-dashboard-html-jsp-custom-best-pratices` | This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL. | sankhya, dashboard, jsp, html, sql, best-practices | sankhya, dashboard, jsp, html, sql, best-practices, custom, pratices, skill, should, used, user |
